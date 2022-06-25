@@ -25,8 +25,12 @@
 @import url(../blocks/techniques/techniques.css);
 
 @import url(../blocks/digits/digits.css);
-@import url(../blocks/digits/__section-title/digits__section-title.css);
-@import url(../blocks/digits/__section-subtitle/digits__section-subtitle.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
@@ -42,12 +46,6 @@
 
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/_theme/kaufman_theme_dark.css);
-@import url(../blocks/kaufman/__section-title/kaufman__section-title.css);
-@import url(../blocks/kaufman/__section-title/_theme/kaufman__section-title_theme_dark.css);
-@import url(../blocks/kaufman/__section-subtitle/kaufman__section-subtitle.css);
-@import url(../blocks/kaufman/__section-subtitle/_theme/kaufman__section-subtitle_theme_dark.css);
-
-
 
 @import url(../blocks/resources/resources.css);
 
