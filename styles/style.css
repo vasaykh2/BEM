@@ -23,7 +23,7 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/content/____technigues/content__technigues.css);
+@import url(../blocks/content/__technigues/content__technigues.css);
 @import url(../blocks/content/__box-center/content__box-center.css);
 
 @import url(../blocks/cards/cards.css);
@@ -49,13 +49,16 @@
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
-
-
-
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/_theme/kaufman_theme_dark.css);
 
 @import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__link/resources__link.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__logo/_theme/resources__logo_arzamas.css);
+@import url(../blocks/resources/__logo/_theme/resources__logo_nplus1.css);
+@import url(../blocks/resources/__logo/_theme/resources__logo_polka.css);
+@import url(../blocks/resources/__logo/_theme/resources__logo_strelka.css);
 
 @import url(../blocks/footer/footer.css);
 
