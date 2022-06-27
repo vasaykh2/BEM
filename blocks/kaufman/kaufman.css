@@ -2,5 +2,7 @@
 .kaufman {
     padding-bottom: 90px;
     padding-top: 90px;
+    position: relative;
+    overflow: hidden;
   }
   
