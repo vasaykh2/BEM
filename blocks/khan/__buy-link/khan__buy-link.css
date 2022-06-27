@@ -7,3 +7,7 @@
     transition: opacity .2s linear;
     cursor: pointer;
 }
+
+.khan__buy-link:hover {
+    color: #0f0;
+}
